@@ -316,9 +316,9 @@ img {
     background-color: var(--lightbg-color);
 }
 
-.divider-1 { background-image: url('/assets/background-img.webp'); }
-.divider-2 { background-image: url('/assets/background-img2.webp'); }
-.divider-3 { background-image: url('/assets/background-img3.webp'); }
+.divider-1 { background-image: url('../assets/background-img.webp'); }
+.divider-2 { background-image: url('../assets/background-img2.webp'); }
+.divider-3 { background-image: url('../assets/background-img3.webp'); }
 
 .divider::before {
     content: '';
